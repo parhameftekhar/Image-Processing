@@ -8,5 +8,10 @@ Correspoing points of the faces are manully selected using cpselect function. In
 
 - **Image hole filling:** In this project a texture image with a hole is given and the task is to fill the hole using complete patches in the image. The algorithm in each iteration looks for the incomplete patch with the minimum unknown pixels and searches for the closest complete patch in the image using the sum of squares distance to fill the unknown pixels.
 
+![alt text](https://github.com/parhameftekhar/Image-Processing/blob/main/Image%20hole%20filling/sea.jpg)
+
+![alt text](https://github.com/parhameftekhar/Image-Processing/blob/main/Image%20hole%20filling/result.jpg)
+
+
 # Requirements:
   - All codes were implemented in Matlab 2015b. Higher versions should work too.
