@@ -29,5 +29,3 @@ Correspoing points of the faces are manully selected using cpselect function. In
 
 
 
-# Requirements:
-  - All codes were implemented in Matlab 2015b. Higher versions should work too.
